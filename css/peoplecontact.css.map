@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,OAAO,CAAC,GAAG,CAAC;EACR,aAAa,EAAE,GAAG;EAClB,MAAM,EAAE,KAAK;CAChB",
+    "sources": [
+        "../scss/peoplecontact.scss"
+    ],
+    "names": [],
+    "file": "peoplecontact.css"
+}

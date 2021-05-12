@@ -1,3 +1,7 @@
+.container {
+    padding: 10px;
+}
+
 .box {
     background-color: #7EB03C;
     height: 300px;
@@ -7,15 +11,16 @@
     background-color: gray;
 }
 
-.box-title h4 {
+.box-title {
     text-align: center;
     padding: 90px;
     color: #fff;
 }
 
-.box-title-2 h6 {
+.box-title-2 {
     color: white;
     text-align: center;
+    padding: 80px;
 }
 
 .box-2 {
@@ -33,7 +38,7 @@
     position: absolute;
     border-left: 25px solid transparent;
     border-right: 25px solid transparent;
-    border-bottom: 25px solid #91dd54;
+    border-bottom: 25px solid #7EB03C;
     transform: rotate(-45deg);
     margin-top: 12px;   
 }

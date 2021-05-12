@@ -16,4 +16,8 @@
 .nav-link:hover {
   color: black !important;
 }
+
+.city {
+  padding: 50px;
+}
 /*# sourceMappingURL=navbar.css.map */
